@@ -1,0 +1,4 @@
+# Backend ignores
+# dependencies
+/node_modules/
+.env
